@@ -8,4 +8,4 @@
 
 开源万岁！<br><br>
 
-![image](SC。jpg)
+![image](SC.jpg)
